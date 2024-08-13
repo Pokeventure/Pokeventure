@@ -1,0 +1,441 @@
+{
+    "id": 12,
+    "name": "<:rocketlogo:843478563982278656> Silph Co.",
+    "encounters": [
+        {
+            "rarity": 1,
+            "trainer": true,
+            "name": "Jessie",
+            "pokemons": [
+                52,
+                24,
+                269
+            ],
+            "sprite": "https://pokeventure-image.s3.amazonaws.com/Sprite_Jessie_LGPE.png",
+            "drops": [
+                2,
+                3,
+                4,
+                95
+            ],
+            "odds": [
+                8,
+                1,
+                1,
+                8
+            ],
+            "money": 5000
+        },
+        {
+            "rarity": 1,
+            "trainer": true,
+            "name": "James",
+            "pokemons": [
+                52,
+                110,
+                71
+            ],
+            "sprite": "https://pokeventure-image.s3.amazonaws.com/Sprite_James_LGPE.png",
+            "drops": [
+                2,
+                3,
+                4,
+                95
+            ],
+            "odds": [
+                8,
+                1,
+                1,
+                8
+            ],
+            "money": 5000
+        },
+        {
+            "rarity": 0,
+            "trainer": true,
+            "name": "Team Rocket Grunt",
+            "pokemons": [
+                52,
+                336,
+                331
+            ],
+            "sprite": "https://www.pokepedia.fr/images/2/22/Sprite_Sbire_Rocket_%E2%99%82_HGSS.png",
+            "drops": [
+                0,
+                1,
+                2,
+                95
+            ],
+            "odds": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "money": 3000
+        },
+        {
+            "rarity": 0,
+            "trainer": true,
+            "name": "Team Rocket Grunt",
+            "pokemons": [
+                97,
+                24,
+                67
+            ],
+            "sprite": "https://www.pokepedia.fr/images/0/0b/Sprite_Sbire_Rocket_%E2%99%80_HGSS.png",
+            "drops": [
+                0,
+                1,
+                2,
+                95
+            ],
+            "odds": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "money": 3000
+        },
+        {
+            "rarity": 2,
+            "trainer": true,
+            "name": "Giovanni",
+            "pokemons": [
+                34,
+                94,
+                53
+            ],
+            "sprite": "https://www.pokepedia.fr/images/5/51/Sprite_Giovanni_NB2.png",
+            "drops": [
+                2,
+                3,
+                4
+            ],
+            "odds": [
+                8,
+                5,
+                5
+            ],
+            "money": 10000
+        },
+        {
+            "rarity": 0,
+            "trainer": true,
+            "name": "Scientist",
+            "pokemons": [
+                82,
+                89,
+                110
+            ],
+            "sprite": "https://archives.bulbagarden.net/media/upload/f/fb/Spr_B2W2_Scientist_M.png",
+            "drops": [
+                0,
+                1,
+                2,
+                95
+            ],
+            "odds": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "money": 2000
+        },
+        {
+            "rarity": 0,
+            "trainer": true,
+            "name": "Scientist",
+            "pokemons": [
+                110,
+                89,
+                101
+            ],
+            "sprite": "https://archives.bulbagarden.net/media/upload/7/78/Spr_B2W2_Scientist_F.png",
+            "drops": [
+                0,
+                1,
+                2,
+                95
+            ],
+            "odds": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "money": 2000
+        },
+        {
+            "id": 19,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 20,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 23,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 24,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 27,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 28,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 41,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 42,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 43,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 44,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 48,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 52,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 53,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 66,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 67,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 71,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 88,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 89,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 96,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 97,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 105,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 108,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 109,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 110,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 202,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 228,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 331,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 336,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 358,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 439,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 455,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 469,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 527,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 562,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 591,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 592,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 686,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 710,
+            "rarity": 0,
+            "special": null,
+            "forme": [
+                null,
+                "large",
+                "small",
+                "super"
+            ]
+        },
+        {
+            "id": 747,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 759,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 760,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 778,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 877,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 137,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        }
+    ]
+}

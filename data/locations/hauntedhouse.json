@@ -1,0 +1,166 @@
+{
+    "id": 9,
+    "name": "Haunted house",
+    "encounters": [
+        {
+            "id": 92,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 96,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 198,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 200,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 222,
+            "rarity": 2,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 353,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 355,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 429,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 442,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 517,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 561,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 562,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 562,
+            "rarity": 2,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 605,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 607,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 677,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 707,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 708,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 710,
+            "rarity": 0,
+            "special": null,
+            "forme": [
+                null,
+                "large",
+                "small",
+                "super"
+            ]
+        },
+        {
+            "id": 778,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 781,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 854,
+            "rarity": 0,
+            "special": null,
+            "forme": [
+                null,
+                "antique"
+            ]
+        },
+        {
+            "id": 856,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 859,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 885,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {"id":944,"rarity":2,"special":null,"forme":null},
+{"id":971,"rarity":2,"special":null,"forme":null}
+    ]
+}

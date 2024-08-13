@@ -1,0 +1,29 @@
+{
+  "COMMAND": {
+    "FIGHT": {
+      "DESCRIPTION": "Combattre le Pokémon sauvage.",
+      "LOSS": "Ton **{{pokemon}}** est K.O.. Le **{{wildPokemon}}** sauvage a fuit.\n{{pokemon}} a gagné {{experience}} Points Expérience.",
+      "NAME": "combat",
+      "WIN": "Le **{{wildPokemon}}** sauvage est K.O.!\n{{pokemon}} a gagné {{experience}} Points Expérience.\nTu as gagné {{coins}} <:pokecoin:741699521725333534> pièces.\n__Tu as une chance de le capturer!__"
+    },
+    "HELP": {
+      "CANNOT_FIND": "Impossible de trouver de l'aide pour {{command}}.",
+      "NAME": "aide",
+      "TITLE": "Aide"
+    },
+    "MOVE": {
+      "NAME": "voyager"
+    },
+    "WILD": {
+      "NAME": "sauvage",
+      "DESCRIPTION": "Cherche un Pokemon sauvage dans ta zone actuelle."
+    },
+    "QUESTS": {
+      "NO_QUEST": "Vous n'avez aucune quête. \nVous pouvez obtenir des quêtes avec vos récompenses. \n(`/récompense`)"
+    }
+  },
+  "COMMON": {
+    "STARTREQUIRED": "Tu dois commencer ton aventure avant d'utiliser cette commande! Commence la en utilisant la commande `/start`"
+  },
+  "LANGUAGE": "fr"
+}

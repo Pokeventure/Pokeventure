@@ -1,0 +1,108 @@
+{
+    "id": 12,
+    "name": "Obsidian Fieldlands",
+    "event": 1,
+    "encounters": [
+        {
+            "id": 25,
+            "rarity": 1
+        },
+        {
+            "id": 41,
+            "rarity": 0
+        },
+        {
+            "id": 42,
+            "rarity": 2
+        },
+        {
+            "id": 46,
+            "rarity": 0
+        },
+        {
+            "id": 47,
+            "rarity": 0
+        },
+        {
+            "id": 54,
+            "rarity": 0
+        },
+        {
+            "id": 63,
+            "rarity": 0
+        },
+        {
+            "id": 64,
+            "rarity": 0
+        },
+        {
+            "id": 65,
+            "rarity": 1
+        },
+        {
+            "id": 66,
+            "rarity": 0
+        },
+        {
+            "id": 67,
+            "rarity": 1
+        },
+        {
+            "id": 74,
+            "rarity": 0
+        },
+        {
+            "id": 75,
+            "rarity": 0
+        },
+        {
+            "id": 77,
+            "rarity": 0
+        },
+        {
+            "id": 78,
+            "rarity": 1
+        },
+        {
+            "id": 113,
+            "rarity": 1
+        },
+        {
+            "id": 122,
+            "rarity": 0
+        },
+        {
+            "id": 123,
+            "rarity": 0
+        },
+        {
+            "id": 129,
+            "rarity": 0
+        },
+        {
+            "id": 130,
+            "rarity": 1
+        },
+        {
+            "id": 133,
+            "rarity": 1
+        },
+        {
+            "id": 143,
+            "rarity": 1
+        },
+        {
+            "id": 172,
+            "rarity": 1
+        },
+        {
+            "id": 190,
+            "rarity": 0
+        },
+        {
+            "id": 211,
+            "rarity": 1,
+            "special": "hisui"
+        }
+    ]
+}

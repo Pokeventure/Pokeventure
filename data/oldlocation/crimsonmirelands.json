@@ -1,0 +1,256 @@
+{
+    "id": 13,
+    "name": "Crimson Mirelands",
+    "event": 1,
+    "encounters": [
+        {
+            "id": 25,
+            "rarity": 0
+        },
+        {
+            "id": 26,
+            "rarity": 1
+        },
+        {
+            "id": 41,
+            "rarity": 0
+        },
+        {
+            "id": 42,
+            "rarity": 0
+        },
+        {
+            "id": 46,
+            "rarity": 0
+        },
+        {
+            "id": 47,
+            "rarity": 0
+        },
+        {
+            "id": 54,
+            "rarity": 0
+        },
+        {
+            "id": 55,
+            "rarity": 1
+        },
+        {
+            "id": 74,
+            "rarity": 0
+        },
+        {
+            "id": 75,
+            "rarity": 0
+        },
+        {
+            "id": 92,
+            "rarity": 0
+        },
+        {
+            "id": 93,
+            "rarity": 1
+        },
+        {
+            "id": 95,
+            "rarity": 0
+        },
+        {
+            "id": 108,
+            "rarity": 0
+        },
+        {
+            "id": 111,
+            "rarity": 0
+        },
+        {
+            "id": 114,
+            "rarity": 1
+        },
+        {
+            "id": 172,
+            "rarity": 1
+        },
+        {
+            "id": 175,
+            "rarity": 2
+        },
+        {
+            "id": 176,
+            "rarity": 2
+        },
+        {
+            "id": 185,
+            "rarity": 1
+        },
+        {
+            "id": 193,
+            "rarity": 0
+        },
+        {
+            "id": 198,
+            "rarity": 0
+        },
+        {
+            "id": 216,
+            "rarity": 1
+        },
+        {
+            "id": 217,
+            "rarity": 2
+        },
+        {
+            "id": 280,
+            "rarity": 1
+        },
+        {
+            "id": 281,
+            "rarity": 1
+        },
+        {
+            "id": 315,
+            "rarity": 0
+        },
+        {
+            "id": 339,
+            "rarity": 0
+        },
+        {
+            "id": 340,
+            "rarity": 0
+        },
+        {
+            "id": 387,
+            "rarity": 1
+        },
+        {
+            "id": 388,
+            "rarity": 1
+        },
+        {
+            "id": 389,
+            "rarity": 2
+        },
+        {
+            "id": 399,
+            "rarity": 0
+        },
+        {
+            "id": 400,
+            "rarity": 0
+        },
+        {
+            "id": 401,
+            "rarity": 0
+        },
+        {
+            "id": 402,
+            "rarity": 0
+        },
+        {
+            "id": 406,
+            "rarity": 0
+        },
+        {
+            "id": 407,
+            "rarity": 0
+        },
+        {
+            "id": 412,
+            "rarity": 1
+        },
+        {
+            "id": 413,
+            "rarity": 1
+        },
+        {
+            "id": 415,
+            "rarity": 0
+        },
+        {
+            "id": 416,
+            "rarity": 2
+        },
+        {
+            "id": 417,
+            "rarity": 0
+        },
+        {
+            "id": 420,
+            "rarity": 1
+        },
+        {
+            "id": 421,
+            "rarity": 1
+        },
+        {
+            "id": 430,
+            "rarity": 2
+        },
+        {
+            "id": 434,
+            "rarity": 0
+        },
+        {
+            "id": 435,
+            "rarity": 1
+        },
+        {
+            "id": 438,
+            "rarity": 1
+        },
+        {
+            "id": 440,
+            "rarity": 1
+        },
+        {
+            "id": 442,
+            "rarity": 3
+        },
+        {
+            "id": 449,
+            "rarity": 0
+        },
+        {
+            "id": 450,
+            "rarity": 1
+        },
+        {
+            "id": 453,
+            "rarity": 0
+        },
+        {
+            "id": 454,
+            "rarity": 0
+        },
+        {
+            "id": 455,
+            "rarity": 0
+        },
+        {
+            "id": 463,
+            "rarity": 2
+        },
+        {
+            "id": 465,
+            "rarity": 2
+        },
+        {
+            "id": 469,
+            "rarity": 2
+        },
+        {
+            "id": 548,
+            "rarity": 1
+        },
+        {
+            "id": 704,
+            "rarity": 1
+        },
+        {
+            "id": 705,
+            "rarity": 1,
+            "special": "hisui"
+        }
+    ]
+}

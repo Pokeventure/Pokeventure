@@ -1,0 +1,67 @@
+{
+    "id": 7,
+    "name": "Volcano",
+    "encounters": [
+        {
+            "id": 218,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 322,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 324,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 513,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 554,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 631,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 636,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 757,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 776,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 850,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {"id":909,"rarity":2,"special":null,"forme":null}
+    ]
+}

@@ -1,0 +1,8 @@
+{
+  "LANGUAGE": "it",
+  "COMMAND": {
+    "QUESTS": {
+      "NO_QUEST": "Non hai nessuna ricerca. \nPuoi ottenere missioni con le tue ricompense. \n(`/ricompensa`)"
+    }
+  }
+}

@@ -1,0 +1,6091 @@
+{
+    "id": 12,
+    "name": "Birthday Park",
+    "encounters": [
+        {
+            "id": 1,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 2,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 3,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 4,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 5,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 6,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 7,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 8,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 9,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 10,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 11,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 12,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 13,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 14,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 15,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 16,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 17,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 18,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 19,
+            "rarity": 0,
+            "special": "alola",
+            "forme": null
+        },
+        {
+            "id": 19,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 20,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 20,
+            "rarity": 0,
+            "special": "alola",
+            "forme": null
+        },
+        {
+            "id": 21,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 22,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 23,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 24,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 25,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 26,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 26,
+            "rarity": 0,
+            "special": "alola",
+            "forme": null
+        },
+        {
+            "id": 27,
+            "rarity": 3,
+            "special": "alola",
+            "forme": null
+        },
+        {
+            "id": 27,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 28,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 28,
+            "rarity": 0,
+            "special": "alola",
+            "forme": null
+        },
+        {
+            "id": 29,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 30,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 31,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 32,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 33,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 34,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 35,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 36,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 37,
+            "rarity": 3,
+            "special": "alola",
+            "forme": null
+        },
+        {
+            "id": 37,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 38,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 38,
+            "rarity": 0,
+            "special": "alola",
+            "forme": null
+        },
+        {
+            "id": 39,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 40,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 41,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 42,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 43,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 44,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 45,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 46,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 47,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 48,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 49,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 50,
+            "rarity": 0,
+            "special": "alola",
+            "forme": null
+        },
+        {
+            "id": 50,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 51,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 51,
+            "rarity": 0,
+            "special": "alola",
+            "forme": null
+        },
+        {
+            "id": 52,
+            "rarity": 0,
+            "special": "alola",
+            "forme": null
+        },
+        {
+            "id": 52,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 52,
+            "rarity": 2,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 53,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 53,
+            "rarity": 0,
+            "special": "alola",
+            "forme": null
+        },
+        {
+            "id": 54,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 55,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 56,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 57,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 58,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 59,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 60,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 61,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 62,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 63,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 64,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 65,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 66,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 67,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 68,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 69,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 70,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 71,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 72,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 73,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 74,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 74,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 75,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 75,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 76,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 76,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 77,
+            "rarity": 3,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 77,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 78,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 78,
+            "rarity": 0,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 79,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 79,
+            "rarity": 2,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 80,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 80,
+            "rarity": 0,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 81,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 82,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 83,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 83,
+            "rarity": 2,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 84,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 85,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 86,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 87,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 88,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 88,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 89,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 89,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 90,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 91,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 92,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 93,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 94,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 95,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 96,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 97,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 98,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 99,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 100,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 101,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 102,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 103,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 103,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 104,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 105,
+            "rarity": 0,
+            "special": "alola",
+            "forme": null
+        },
+        {
+            "id": 105,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 106,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 107,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 108,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 109,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 110,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 110,
+            "rarity": 3,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 111,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 112,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 113,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 114,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 115,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 116,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 117,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 118,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 119,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 120,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 121,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 122,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 122,
+            "rarity": 2,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 123,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 124,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 125,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 126,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 127,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 128,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 129,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 130,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 131,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 132,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 133,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 134,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 135,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 136,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 137,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 138,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 139,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 140,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 141,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 142,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 143,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 144,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 144,
+            "rarity": 2,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 145,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 145,
+            "rarity": 2,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 146,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 146,
+            "rarity": 2,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 147,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 148,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 149,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 150,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 151,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 152,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 153,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 154,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 155,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 156,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 157,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 158,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 159,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 160,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 161,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 162,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 163,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 164,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 165,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 166,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 167,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 168,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 169,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 170,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 171,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 172,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 173,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 174,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 175,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 176,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 177,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 178,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 179,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 180,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 181,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 182,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 183,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 184,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 185,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 186,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 187,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 188,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 189,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 190,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 191,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 192,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 193,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 194,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 195,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 196,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 197,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 198,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 199,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 199,
+            "rarity": 0,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 200,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 201,
+            "rarity": 1,
+            "special": null,
+            "forme": [
+                null,
+                "b",
+                "c",
+                "d",
+                "e",
+                "f",
+                "g",
+                "h",
+                "i",
+                "j",
+                "k",
+                "l",
+                "m",
+                "n",
+                "o",
+                "p",
+                "q",
+                "r",
+                "s",
+                "t",
+                "u",
+                "v",
+                "w",
+                "x",
+                "y",
+                "z",
+                "question",
+                "exclamation"
+            ]
+        },
+        {
+            "id": 202,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 203,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 204,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 205,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 206,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 207,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 208,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 209,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 210,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 211,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 212,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 213,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 214,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 215,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 216,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 217,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 218,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 219,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 220,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 221,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 222,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 222,
+            "rarity": 2,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 223,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 224,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 225,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 226,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 227,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 228,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 229,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 230,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 231,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 232,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 233,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 234,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 235,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 236,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 237,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 238,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 239,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 240,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 241,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 242,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 243,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 244,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 245,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 246,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 247,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 248,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 249,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 250,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 251,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 252,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 253,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 254,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 255,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 256,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 257,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 258,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 259,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 260,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 261,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 262,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 263,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 263,
+            "rarity": 2,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 264,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 264,
+            "rarity": 0,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 265,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 266,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 267,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 268,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 269,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 270,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 271,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 272,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 273,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 274,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 275,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 276,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 277,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 278,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 279,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 280,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 281,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 282,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 283,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 284,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 285,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 286,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 287,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 288,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 289,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 290,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 291,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 292,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 293,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 294,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 295,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 296,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 297,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 298,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 299,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 300,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 301,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 302,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 303,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 304,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 305,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 306,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 307,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 308,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 309,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 310,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 311,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 312,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 313,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 314,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 315,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 316,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 317,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 318,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 319,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 320,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 321,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 322,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 323,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 324,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 325,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 326,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 327,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 328,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 329,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 330,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 331,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 332,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 333,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 334,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 335,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 336,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 337,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 338,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 339,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 340,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 341,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 342,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 343,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 344,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 345,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 346,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 347,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 348,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 349,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 350,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 351,
+            "rarity": 0,
+            "forme": null,
+            "special": [
+                null,
+                "rainy",
+                "snowy",
+                "sunny"
+            ]
+        },
+        {
+            "id": 351,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 351,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 351,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 352,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 353,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 354,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 355,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 356,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 357,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 358,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 359,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 360,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 361,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 362,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 363,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 364,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 365,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 366,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 367,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 368,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 369,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 370,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 371,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 372,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 373,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 374,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 375,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 376,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 377,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 378,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 379,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 380,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 381,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 382,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 383,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 384,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 385,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 386,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 386,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 386,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 386,
+            "rarity": 2,
+            "special": [
+                null,
+                "attack",
+                "defense",
+                "speed"
+            ],
+            "forme": null
+        },
+        {
+            "id": 387,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 388,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 389,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 390,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 391,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 392,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 393,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 394,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 395,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 396,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 397,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 398,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 399,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 400,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 401,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 402,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 403,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 404,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 405,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 406,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 407,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 408,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 409,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 410,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 411,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 412,
+            "rarity": 0,
+            "special": null,
+            "forme": [
+                null,
+                "sandy",
+                "trash"
+            ]
+        },
+        {
+            "id": 412,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 412,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 413,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 413,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 413,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 414,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 415,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 416,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 417,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 418,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 419,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 420,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 421,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 421,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 422,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 422,
+            "rarity": 0,
+            "special": null,
+            "forme": [
+                null,
+                "east"
+            ]
+        },
+        {
+            "id": 423,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 423,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 424,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 425,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 426,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 427,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 428,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 429,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 430,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 431,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 432,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 433,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 434,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 435,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 436,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 437,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 438,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 439,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 440,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 441,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 442,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 443,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 444,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 445,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 446,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 447,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 448,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 449,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 450,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 451,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 452,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 453,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 454,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 455,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 456,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 457,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 458,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 459,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 460,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 461,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 462,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 463,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 464,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 465,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 466,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 467,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 468,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 469,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 470,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 471,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 472,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 473,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 474,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 475,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 476,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 477,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 478,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 479,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 479,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 479,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 479,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 479,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 479,
+            "rarity": 1,
+            "special": [
+                null,
+                "fan",
+                "frost",
+                "heat",
+                "mow",
+                "wash"
+            ],
+            "forme": null
+        },
+        {
+            "id": 480,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 481,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 482,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 483,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 484,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 485,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 486,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 487,
+            "rarity": 4,
+            "forme": null,
+            "special": [
+                null,
+                "origin"
+            ]
+        },
+        {
+            "id": 487,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 488,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 489,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 490,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 491,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 492,
+            "rarity": 4,
+            "forme": null,
+            "special": [
+                null,
+                "sky"
+            ]
+        },
+        {
+            "id": 492,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 493,
+            "rarity": 4,
+            "forme": null,
+            "special": [
+                null,
+                "bug",
+                "dark",
+                "dragon",
+                "electric",
+                "fairy",
+                "fighting",
+                "fire",
+                "flying",
+                "ghost",
+                "grass",
+                "ground",
+                "ice",
+                "poison",
+                "psychic",
+                "rock",
+                "steel",
+                "water"
+            ]
+        },
+        {
+            "id": 494,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 495,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 496,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 497,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 498,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 499,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 500,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 501,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 502,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 503,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 504,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 505,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 506,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 507,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 508,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 509,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 510,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 511,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 512,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 513,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 514,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 515,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 516,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 517,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 518,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 519,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 520,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 521,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 522,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 523,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 524,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 525,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 526,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 527,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 528,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 529,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 530,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 531,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 532,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 533,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 534,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 535,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 536,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 537,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 538,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 539,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 540,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 541,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 542,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 543,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 544,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 545,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 546,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 547,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 548,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 549,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 550,
+            "rarity": 0,
+            "special": null,
+            "forme": [
+                null,
+                "bluestriped"
+            ]
+        },
+        {
+            "id": 550,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 551,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 552,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 553,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 554,
+            "rarity": 2,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 554,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 555,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 555,
+            "rarity": 0,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 555,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 555,
+            "rarity": 0,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 556,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 557,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 558,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 559,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 560,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 561,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 562,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 562,
+            "rarity": 2,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 563,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 564,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 565,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 566,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 567,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 568,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 569,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 570,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 571,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 572,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 573,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 574,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 575,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 576,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 577,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 578,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 579,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 580,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 581,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 582,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 583,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 584,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 585,
+            "rarity": 2,
+            "special": null,
+            "forme": [
+                null,
+                "autumn",
+                "summer",
+                "winter"
+            ]
+        },
+        {
+            "id": 586,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 587,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 588,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 589,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 590,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 591,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 592,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 593,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 594,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 595,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 596,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 597,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 598,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 599,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 600,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 601,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 602,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 603,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 604,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 605,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 606,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 607,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 608,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 609,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 610,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 611,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 612,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 613,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 614,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 615,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 616,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 617,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 618,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 618,
+            "rarity": 2,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 619,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 620,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 621,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 622,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 623,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 624,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 625,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 626,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 627,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 628,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 629,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 630,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 631,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 632,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 633,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 634,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 635,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 636,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 637,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 638,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 639,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 640,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 641,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 641,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 642,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 642,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 643,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 644,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 645,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 645,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 646,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 646,
+            "rarity": 4,
+            "special": "black",
+            "forme": null
+        },
+        {
+            "id": 646,
+            "rarity": 4,
+            "special": "white",
+            "forme": null
+        },
+        {
+            "id": 647,
+            "rarity": 4,
+            "forme": null,
+            "special": [
+                null,
+                "resolute"
+            ]
+        },
+        {
+            "id": 647,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 648,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 648,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 649,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 650,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 651,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 652,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 653,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 654,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 655,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 656,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 657,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 658,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 658,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 659,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 660,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 661,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 662,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 663,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 664,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 665,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 666,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 667,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 668,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 669,
+            "rarity": 0,
+            "special": null,
+            "forme": [
+                null,
+                "blue",
+                "orange",
+                "white",
+                "yellow"
+            ]
+        },
+        {
+            "id": 671,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 671,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 671,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 671,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 671,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 672,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 673,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 674,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 675,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 676,
+            "rarity": 1,
+            "special": null,
+            "forme": [
+                null,
+                "star",
+                "pharaoh",
+                "matron",
+                "lareine",
+                "kabuki",
+                "heart",
+                "diamond",
+                "debutante",
+                "dandy"
+            ]
+        },
+        {
+            "id": 677,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 678,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 679,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 680,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 681,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 681,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 682,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 683,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 684,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 685,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 686,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 687,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 688,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 689,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 690,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 691,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 692,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 693,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 694,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 695,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 696,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 697,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 698,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 699,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 700,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 701,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 702,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 703,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 704,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 705,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 706,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 707,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 708,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 709,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 710,
+            "rarity": 0,
+            "special": null,
+            "forme": [
+                null,
+                "large",
+                "small",
+                "super"
+            ]
+        },
+        {
+            "id": 710,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 710,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 710,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 711,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 711,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 711,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 711,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 712,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 713,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 714,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 715,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 716,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 716,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 717,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 718,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 718,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 718,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 719,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 720,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 720,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 721,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 722,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 723,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 724,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 725,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 726,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 727,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 728,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 729,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 730,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 731,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 732,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 733,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 734,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 735,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 736,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 737,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 738,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 739,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 740,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 741,
+            "rarity": 1,
+            "special": null,
+            "forme": [
+                null,
+                "sensu",
+                "pompom",
+                "pau"
+            ]
+        },
+        {
+            "id": 741,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 741,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 741,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 742,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 743,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 744,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 745,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 745,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 745,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 746,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 746,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 747,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 748,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 749,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 750,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 751,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 752,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 753,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 754,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 755,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 756,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 757,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 758,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 759,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 760,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 761,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 762,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 763,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 764,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 765,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 766,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 767,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 768,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 769,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 770,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 771,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 772,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 773,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 774,
+            "rarity": 2,
+            "special": null,
+            "forme": [
+                null,
+                "meteor",
+                "blue",
+                "green",
+                "indigo",
+                "orange",
+                "violet",
+                "yellow"
+            ]
+        },
+        {
+            "id": 775,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 776,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 777,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 778,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 779,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 780,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 781,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 782,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 783,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 784,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 785,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 786,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 787,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 788,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 789,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 790,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 791,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 792,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 793,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 794,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 795,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 796,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 797,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 798,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 799,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 800,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 800,
+            "rarity": 4,
+            "special": "dawn",
+            "forme": null
+        },
+        {
+            "id": 800,
+            "rarity": 4,
+            "special": "dusk",
+            "forme": null
+        },
+        {
+            "id": 800,
+            "rarity": 4,
+            "special": "ultra",
+            "forme": null
+        },
+        {
+            "id": 801,
+            "rarity": 3,
+            "special": "original",
+            "forme": null
+        },
+        {
+            "id": 801,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 802,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 803,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 804,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 805,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 806,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 807,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 808,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 809,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 810,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 811,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 812,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 813,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 814,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 815,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 816,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 817,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 818,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 819,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 820,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 821,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 822,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 823,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 824,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 825,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 826,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 827,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 828,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 829,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 830,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 831,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 832,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 833,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 834,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 835,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 836,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 837,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 838,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 839,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 840,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 841,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 842,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 843,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 844,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 845,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 846,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 847,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 848,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 849,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 850,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 851,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 852,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 853,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 854,
+            "rarity": 0,
+            "forme": null,
+            "special": [
+                null,
+                "antique"
+            ]
+        },
+        {
+            "id": 855,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 856,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 857,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 858,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 859,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 860,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 861,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 862,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 863,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 864,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 865,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 866,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 867,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 868,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 869,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 870,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 871,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 872,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 873,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 874,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 875,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 876,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 877,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 878,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 879,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 880,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 881,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 882,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 883,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 884,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 885,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 886,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 887,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 888,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 888,
+            "rarity": 4,
+            "forme": null,
+            "special": [
+                "crowned"
+            ]
+        },
+        {
+            "id": 889,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 889,
+            "rarity": 4,
+            "forme": null,
+            "special": [
+                "crowned"
+            ]
+        },
+        {
+            "id": 890,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 891,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 892,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 893,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 894,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 895,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 896,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 897,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 898,
+            "rarity": 4,
+            "special": null,
+            "forme": null
+        }
+    ],
+    "event": true
+}

@@ -1,0 +1,170 @@
+{
+    "id": 3,
+    "name": "Cave",
+    "encounters": [
+        {
+            "id": 41,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 50,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 95,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 201,
+            "rarity": 1,
+            "special": null,
+            "forme": [
+                null,
+                "b",
+                "c",
+                "d",
+                "e",
+                "f",
+                "g",
+                "h",
+                "i",
+                "j",
+                "k",
+                "l",
+                "m",
+                "n",
+                "o",
+                "p",
+                "q",
+                "r",
+                "s",
+                "t",
+                "u",
+                "v",
+                "w",
+                "x",
+                "y",
+                "z",
+                "question",
+                "exclamation"
+            ]
+        },
+        {
+            "id": 206,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 293,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 299,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 302,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 303,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 337,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 338,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 436,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 524,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 527,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 529,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 595,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 597,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 622,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 632,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 703,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 714,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 837,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {"id":932,"rarity":0,"special":null,"forme":null},
+        {"id":965,"rarity":1,"special":null,"forme":null},
+        {"id":969,"rarity":1,"special":null,"forme":null}
+    ]
+}

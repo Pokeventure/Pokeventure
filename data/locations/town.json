@@ -1,0 +1,86 @@
+{
+    "id": 0,
+    "name": "Town",
+    "encounters": [
+        {
+            "id": 122,
+            "rarity": 2,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 209,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 235,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 280,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 431,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 506,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 531,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 568,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 570,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 676,
+            "rarity": 1,
+            "special": null,
+            "forme": [
+                null,
+                "star",
+                "pharaoh",
+                "matron",
+                "lareine",
+                "kabuki",
+                "heart",
+                "diamond",
+                "debutante",
+                "dandy"
+            ]
+        },
+        {
+            "id": 876,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {"id":906,"rarity":2,"special":null,"forme":null},
+        {"id":924,"rarity":2,"special":null,"forme":null},
+        {"id":926,"rarity":0,"special":null,"forme":null}
+    ]
+}

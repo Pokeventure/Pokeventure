@@ -1,0 +1,86 @@
+{
+    "id": 10,
+    "name": "Snowy mountain",
+    "encounters": [
+        {
+            "id": 215,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 220,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 225,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 361,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 459,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 461,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 554,
+            "rarity": 2,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 582,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 613,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 712,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 739,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 872,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 875,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {"id":974,"rarity":1,"special":null,"forme":null},
+        {"id":996,"rarity":2,"special":null,"forme":null}
+    ]
+}

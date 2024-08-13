@@ -1,0 +1,79 @@
+{
+    "id": 11,
+    "name": "Desert",
+    "encounters": [
+        {
+            "id": 27,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 328,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 329,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 331,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 343,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 449,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 451,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 477,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 551,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 556,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 843,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 878,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {"id":946,"rarity":0,"special":null,"forme":null}
+    ]
+}

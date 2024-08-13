@@ -1,0 +1,67 @@
+{
+    "id": 8,
+    "name": "Power plant",
+    "encounters": [
+        {
+            "id": 81,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 88,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 100,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 109,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 132,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 309,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 522,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 599,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 848,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 110,
+            "rarity": 3,
+            "special": "galar",
+            "forme": null
+        },
+        {"id":938,"rarity":1,"special":null,"forme":null}
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "id": 4,
+    "name": "Lake",
+    "encounters": [
+        {
+            "id": 54,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 60,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 129,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 194,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 270,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 283,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 339,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 399,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 418,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 453,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 535,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 550,
+            "rarity": 0,
+            "special": null,
+            "forme": [
+                null,
+                "bluestriped"
+            ]
+        },
+        {
+            "id": 580,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 592,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 602,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 618,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 618,
+            "rarity": 2,
+            "special": "galar",
+            "forme": null
+        },
+        {
+            "id": 751,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 845,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {"id":912,"rarity":2,"special":null,"forme":null},
+        {"id":973,"rarity":0,"special":null,"forme":null},
+        {"id":976,"rarity":1,"special":null,"forme":null},
+        {"id":977,"rarity":2,"special":null,"forme":null},
+        {"id":978,"rarity":2,"special":["droopy","stretchy"],"forme":null}
+    ]
+}

@@ -1,0 +1,33 @@
+{
+  "COMMAND": {
+    "FIGHT": {
+      "DESCRIPTION": "Fight against the wild Pokémon.",
+      "LOSS": "Your **{{pokemon}}** has fainted. The wild **{{wildPokemon}}** fled.\n{{pokemon}} gained {{experience}} Exp.points.",
+      "NAME": "fight",
+      "WIN": "The wild **{{wildPokemon}}** fainted!\n{{pokemon}} gained {{experience}} Exp. points.\nYou earned {{coins}} <:pokecoin:741699521725333534> coins.\n__You have a chance to catch it!__"
+    },
+    "HELP": {
+      "CANNOT_FIND": "Cannot find help for {{command}}.",
+      "DESCRIPTION": "Give informations about commands.",
+      "FULL_DESCRIPTION": "Display all informations about available commands on this bot. It will display the aliases too.\nExample: `/help` to display simple help page.\nExample: `/help fight` to get more informations about the `fight` command.",
+      "NAME": "help",
+      "TITLE": "Help"
+    },
+    "MOVE": {
+      "DESCRIPTION": "Move to a different locations.",
+      "FULL_DESCRIPTION": "Command to travel to a given location ID. To see all existing locations, use `/map` command.\n\nExample `/move 4` to move to location with ID 4.",
+      "NAME": "move"
+    },
+    "WILD": {
+      "NAME": "wild",
+      "DESCRIPTION": "Find a wild Pokémon in your current location."
+    },
+    "QUESTS": {
+      "NO_QUEST": "You don't have any quest. You can get quests with your rewards. (`/reward`)"
+    }
+  },
+  "COMMON": {
+    "STARTREQUIRED": "You have to start your adventure before using this command! Start it by using the `/start` command"
+  },
+  "LANGUAGE": "en-US"
+}

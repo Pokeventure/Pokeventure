@@ -1,0 +1,281 @@
+{
+    "id": 16,
+    "name": "Alabaster Icelands",
+    "event": 1,
+    "encounters": [
+        {
+            "id": 41,
+            "rarity": 0
+        },
+        {
+            "id": 42,
+            "rarity": 0
+        },
+        {
+            "id": 63,
+            "rarity": 0
+        },
+        {
+            "id": 64,
+            "rarity": 1
+        },
+        {
+            "id": 66,
+            "rarity": 0
+        },
+        {
+            "id": 67,
+            "rarity": 0
+        },
+        {
+            "id": 68,
+            "rarity": 2
+        },
+        {
+            "id": 75,
+            "rarity": 0
+        },
+        {
+            "id": 92,
+            "rarity": 0
+        },
+        {
+            "id": 93,
+            "rarity": 0
+        },
+        {
+            "id": 108,
+            "rarity": 1
+        },
+        {
+            "id": 113,
+            "rarity": 1
+        },
+        {
+            "id": 125,
+            "rarity": 1
+        },
+        {
+            "id": 133,
+            "rarity": 2
+        },
+        {
+            "id": 143,
+            "rarity": 1
+        },
+        {
+            "id": 169,
+            "rarity": 1
+        },
+        {
+            "id": 190,
+            "rarity": 0
+        },
+        {
+            "id": 200,
+            "rarity": 1
+        },
+        {
+            "id": 207,
+            "rarity": 2
+        },
+        {
+            "id": 215,
+            "rarity": 1,
+            "special": "hisui"
+        },
+        {
+            "id": 220,
+            "rarity": 0
+        },
+        {
+            "id": 221,
+            "rarity": 0
+        },
+        {
+            "id": 234,
+            "rarity": 0
+        },
+        {
+            "id": 239,
+            "rarity": 1
+        },
+        {
+            "id": 242,
+            "rarity": 1
+        },
+        {
+            "id": 280,
+            "rarity": 1
+        },
+        {
+            "id": 281,
+            "rarity": 1
+        },
+        {
+            "id": 282,
+            "rarity": 2
+        },
+        {
+            "id": 355,
+            "rarity": 1
+        },
+        {
+            "id": 356,
+            "rarity": 1
+        },
+        {
+            "id": 358,
+            "rarity": 0
+        },
+        {
+            "id": 361,
+            "rarity": 0
+        },
+        {
+            "id": 362,
+            "rarity": 0
+        },
+        {
+            "id": 399,
+            "rarity": 0
+        },
+        {
+            "id": 400,
+            "rarity": 0
+        },
+        {
+            "id": 412,
+            "rarity": 1
+        },
+        {
+            "id": 413,
+            "rarity": 1
+        },
+        {
+            "id": 424,
+            "rarity": 0
+        },
+        {
+            "id": 425,
+            "rarity": 1
+        },
+        {
+            "id": 426,
+            "rarity": 1
+        },
+        {
+            "id": 427,
+            "rarity": 0
+        },
+        {
+            "id": 428,
+            "rarity": 0
+        },
+        {
+            "id": 431,
+            "rarity": 0
+        },
+        {
+            "id": 432,
+            "rarity": 1
+        },
+        {
+            "id": 433,
+            "rarity": 0
+        },
+        {
+            "id": 436,
+            "rarity": 1
+        },
+        {
+            "id": 437,
+            "rarity": 1
+        },
+        {
+            "id": 440,
+            "rarity": 1
+        },
+        {
+            "id": 443,
+            "rarity": 1
+        },
+        {
+            "id": 444,
+            "rarity": 1
+        },
+        {
+            "id": 445,
+            "rarity": 2
+        },
+        {
+            "id": 446,
+            "rarity": 0
+        },
+        {
+            "id": 447,
+            "rarity": 1
+        },
+        {
+            "id": 448,
+            "rarity": 2
+        },
+        {
+            "id": 459,
+            "rarity": 0
+        },
+        {
+            "id": 460,
+            "rarity": 1
+        },
+        {
+            "id": 463,
+            "rarity": 2
+        },
+        {
+            "id": 473,
+            "rarity": 1
+        },
+        {
+            "id": 475,
+            "rarity": 2
+        },
+        {
+            "id": 478,
+            "rarity": 1
+        },
+        {
+            "id": 550,
+            "rarity": 1,
+            "special": "whitestriped"
+        },
+        {
+            "id": 570,
+            "rarity": 1,
+            "special": "hisui"
+        },
+        {
+            "id": 571,
+            "rarity": 1,
+            "special": "hisui"
+        },
+        {
+            "id": 627,
+            "rarity": 0
+        },
+        {
+            "id": 628,
+            "rarity": 1,
+            "special": "hisui"
+        },
+        {
+            "id": 712,
+            "rarity": 0
+        },
+        {
+            "id": 713,
+            "rarity": 2,
+            "special": "hisui"
+        }
+    ]
+}

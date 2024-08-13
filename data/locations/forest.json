@@ -1,0 +1,385 @@
+{
+    "id": 1,
+    "name": "Forest",
+    "encounters": [
+        {
+            "id": 10,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 11,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 13,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 14,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 43,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 46,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 48,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 69,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 163,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 165,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 167,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 177,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 185,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 190,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 193,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 204,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 216,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 234,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 263,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 265,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 266,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 268,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 273,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 285,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 287,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 290,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 300,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 313,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 314,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 333,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 352,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 396,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 401,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 412,
+            "rarity": 0,
+            "special": null,
+            "forme": [
+                null,
+                "sandy",
+                "trash"
+            ]
+        },
+        {
+            "id": 424,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 434,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 441,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 455,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 509,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 511,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 540,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 543,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 585,
+            "rarity": 2,
+            "special": null,
+            "forme": [
+                null,
+                "autumn",
+                "summer",
+                "winter"
+            ]
+        },
+        {
+            "id": 587,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 588,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 590,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 664,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 674,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 684,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 701,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 704,
+            "rarity": 2,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 736,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 738,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 755,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 759,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 765,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 766,
+            "rarity": 3,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 775,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 824,
+            "rarity": 0,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 833,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {
+            "id": 840,
+            "rarity": 1,
+            "special": null,
+            "forme": null
+        },
+        {"id":931,"rarity":2,"special":null,"forme":null},
+{"id":940,"rarity":0,"special":null,"forme":null},
+{"id":948,"rarity":2,"special":null,"forme":null},
+{"id":917,"rarity":0,"special":null,"forme":null}
+    ]
+}
